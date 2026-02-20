@@ -1,9 +1,8 @@
 # Open5014
-一个真正意义上的赛博Coser，使用Nano Banana。
 <p align="center">
   <img src="https://raw.githubusercontent.com/LimeBlogs/Open5014/refs/heads/main/icon.jpg" alt="5014头像" width="300" />
   <br>
-  <em>Open5014</em>
+  <em>Open5014 - 一个真正意义上的赛博Coser，使用Nano Banana。</em>
 </p>
 
 # 快速开始
